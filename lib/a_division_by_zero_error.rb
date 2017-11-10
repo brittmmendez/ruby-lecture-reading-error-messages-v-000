@@ -1,3 +1,10 @@
-42 / 6
+def display_board (board)
+  board = [" "," "," "," ","X"," "," "," "," "]
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
 
-42 / 8
+display_board
